@@ -1,0 +1,6 @@
+attendance_id,student_id,date,status
+1,1,2026-07-20,Present
+2,2,2026-07-20,Present
+3,3,2026-07-20,Absent
+4,1,2026-07-21,Present
+5,2,2026-07-21,Absent

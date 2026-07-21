@@ -1,0 +1,6 @@
+student_id,name,email,roll_number,course_id
+1,Alice Johnson,alice@college.edu,CS001,1
+2,Bob Wilson,bob@college.edu,CS002,1
+3,Charlie Brown,charlie@college.edu,CS003,1
+4,Diana Prince,diana@college.edu,CS004,2
+5,Eve Adams,eve@college.edu,CS005,2
