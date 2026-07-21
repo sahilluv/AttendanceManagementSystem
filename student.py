@@ -16,4 +16,12 @@ def display_students():
 
 def search_student(roll_number):
     """Search student by Roll Number"""
-    pass
+    results = {}
+    # Search logic here
+    return results
+
+def search_student_by_name(name):
+    """Search student by name"""
+    results = []
+    # Search logic here
+    return results
